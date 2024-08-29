@@ -1,0 +1,22 @@
+## Goals
+- The trainee will understand what is `PgBackRest` and what it is used for
+- The trainee will understand what is `PgBackRest` CLI
+
+## Tasks
+* Read about pgBackRest and answer the following questions:
+  - What is pgbackrest and what it is used for?
+  - What is `stanza` in pgbackest?
+  - What is `repository` in pgbackrest? Give examples of repository types.
+  - What are the benifits/features of pgbackrest?
+  - Where is pgbackrest configuration file?
+  - How can you list all pgbackrest backups?
+  - What archive command is configured in `postgresql.conf` when using pgbackest? Explain what it does.
+  - How the pgbackrest server communicates with the DB servers?
+  - How can you validate that pgbackrest and the archive_command setting are configured correctly?
+  - What is `spool` directory in pgbackrest?
+  
+* Deploy a pgbackrest server and do the following tasks:
+  - Backup your cluster locally using barman.
+  - Perform `PITR` on your cluster.
+  
+* Read Dbaas documentation about Barman

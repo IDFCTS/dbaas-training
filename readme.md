@@ -1,14 +1,41 @@
-# Welcome to the DBaaS online training program!  
-Here you will learn all there is to know about the secrets of creation.. as well as Databases.  
-Theres is much to learn, but with great power comes great responsibility- and the fate of our clients' data rests on our shoulders.  
+# Website
 
-In the chapters that follow, you will learn about our team's main areas of responsibility, Postgres, MongoDB, and Rundeck.  
-You are not expected to be an expert when you finish, but by the time you're done, you should be a fully capable team member.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-We are glad to have you aboard!
+### Installation
 
+```
+$ npm install
+```
 
-To get started, read the welcome pages and introduction, here:  
-[Welcome page](01. General/01. Welcome.md)
+### Local Development
 
-![](https://thumbs.dreamstime.com/b/old-wizard-spell-book-cartoon-style-dark-cave-background-illustration-186843509.jpg)  
+```
+$ npm start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ npm build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

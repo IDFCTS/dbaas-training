@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "DBAAS",
   tagline: "DBAAS docs",
-  favicon: "img/favicon.icoS",
+  favicon: "img/favicon.ico",
   url: process.env.PROD_URL,
   baseUrl: process.env.BASE_URL,
 

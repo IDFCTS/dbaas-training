@@ -20,5 +20,5 @@ In the chapters ahead, you’ll embark on quests through the legendary realms of
 ###  📖 Begin your adventure with the **Welcome Pages** and **Introduction**  
 
 <div align="center">
-   <img src="../../../static/img/helloDoggie.jpg" alt="Hello my man" width="600"/>
+   <img src="/img/helloDoggie.jpg" alt="Hello my man" width="600"/>
 </div>

@@ -1,13 +1,24 @@
-# Welcome to the DBaaS online training program!
+# ⚡ Welcome, Brave Recruit!
 
-Here you will learn all there is to know about the secrets of creation.. as well as Databases.  
-Theres is much to learn, but with great power comes great responsibility- and the fate of our clients' data rests on our shoulders.
+> *“With great power comes great responsibility — especially when handling production data.”* 🧠
 
-In the chapters that follow, you will learn about our team's main areas of responsibility, Postgres, MongoDB, and Rundeck.  
-You are not expected to be an expert when you finish, but by the time you're done, you should be a fully capable team member.
+You’ve arrived at the gateway to a world where **creation meets databases**.  
+Here, you’ll uncover ancient secrets, master powerful tools, and (hopefully) survive your first merge conflict. 💾  
 
-We are glad to have you aboard!
+---
 
-To get started, read the welcome pages and introduction
+## 🧭 What Awaits You
 
-![Wizard](/img/wizard.webp)
+In the chapters ahead, you’ll embark on quests through the legendary realms of:
+
+- 🐘 **PostgreSQL** – Guardian of structured data and SQL sorcery  
+- 🍃 **MongoDB** – Keeper of flexibility and NoSQL chaos  
+- 🔥 **Redis** – the speed demon of caching  
+- 📊 **Prometheus** – the watchful eye of monitoring  
+
+---
+###  📖 Begin your adventure with the **Welcome Pages** and **Introduction**  
+
+<div align="center">
+   <img src="../../../static/img/helloDoggie.jpg" alt="Hello my man" width="600"/>
+</div>

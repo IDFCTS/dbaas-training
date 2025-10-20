@@ -12,3 +12,4 @@
 1. How do you define targets to scrape?
 1. What is a job in Prometheus?
 1. How could you change the scrape interval or add multiple targets?
+1. How could you change the scrape interval or add multiple targets?

@@ -29,6 +29,19 @@
 - Backup and Restore methods
 - States
 
+## Internal
+
+- WiredTiger cache and memory usage
+- mongod processes
+- journaling
+- currentOp / killOp
+- profiler
+
+## Security
+
+- authentication (password, x509, `$external`)
+- role-based access control
+
 ## Management tools
 
 - `studio 3T`

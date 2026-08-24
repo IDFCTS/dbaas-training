@@ -26,6 +26,6 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Deplyoments are going through github actions + github actions on merge to main 
+Deployments are going through github actions + github actions on merge to main 
 
 see `.env` file and `.github` dir for more information

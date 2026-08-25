@@ -19,14 +19,4 @@ In the chapters ahead, you’ll embark on quests through the legendary realms of
 ---
 ###  📖 Begin your adventure with the **Welcome Pages** and **Introduction**  
 
-In the chapters ahead, you’ll embark on quests through the legendary realms of:
-
-- 🐘 **PostgreSQL** – Guardian of structured data and SQL sorcery  
-- 🍃 **MongoDB** – Keeper of flexibility and NoSQL chaos  
-- 🔥 **Redis** – the speed demon of caching  
-- 📊 **Prometheus** – the watchful eye of monitoring  
-
----
-###  📖 Begin your adventure with the **Welcome Pages** and **Introduction**  
-
 ![Hello my man](/img/helloDoggie.jpg)
